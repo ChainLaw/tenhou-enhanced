@@ -1,0 +1,23 @@
+# Build output
+/build/
+
+# Local tests
+/tests/
+
+# Local client, settings, cache and game records
+/tenhou/
+
+# Local IDE and CMake settings
+/.vs/
+/.vscode/
+/.idea/
+/CMakeUserPresets.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Windows desktop files
+*.lnk
+Thumbs.db
+Desktop.ini

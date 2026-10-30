@@ -1,0 +1,12 @@
+* text=auto
+*.cpp text eol=lf
+*.h text eol=lf
+*.inc text eol=lf
+*.js text eol=lf
+*.html text eol=lf
+*.res binary
+*.py text eol=lf
+*.md text eol=lf
+*.ps1 text eol=crlf
+*.ini text eol=crlf
+/vendor/tenhou4/latest.js -text
